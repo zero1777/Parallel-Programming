@@ -2,11 +2,14 @@
 NTHU CS. 11020 CS411100. Introduction to Parallel Computing.
 
 ## lab1: Platform Introduction
+- Slide: [link](lab1/slide.pdf)
 
 ## lab2: MPI
 - Calculate number of pixels of a circle on a 2D monitor using MPI to parallelize the calculation.
+- Slide: [link](lab2/slide.pdf)
 
 ## lab3: GPU Cluster
+- Slide: [link](lab3/slide.pdf)
 
 ## Hw1: Sokoban
 - Implement a solver for Sokoban and parallelize it with threads (either pthread or OpenMP).
